@@ -1,0 +1,13 @@
+{
+  "name": "UsingEnglish/cloudfusion",
+  "version": "stable",
+  "autoload": {
+    "classmap": [
+      "./",
+      "extensions/",
+      "lib/",
+      "services/",
+      "utilities/"
+    ]
+  }
+}
