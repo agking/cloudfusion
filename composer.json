@@ -1,6 +1,6 @@
 {
   "name": "UsingEnglish/cloudfusion",
-  "version": "stable",
+  "version": "1.0",
   "autoload": {
     "classmap": [
       "./",
