@@ -1,5 +1,5 @@
 {
-  "name": "UsingEnglish/cloudfusion",
+  "name": "agking/cloudfusion",
   "version": "1.0",
   "autoload": {
     "classmap": [
