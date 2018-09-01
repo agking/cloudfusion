@@ -1036,8 +1036,6 @@ class ResponseCore
 		$this->header = $header;
 		$this->body = $body;
 		$this->status = $status;
-
-		return $this;
 	}
 
 	/**
