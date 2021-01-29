@@ -1,5 +1,6 @@
 {
   "name": "agking/cloudfusion",
+  "description": "cloudfusion",
   "license": "proprietary",
   "autoload": {
     "classmap": [
